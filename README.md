@@ -2,7 +2,7 @@
 
 ## To clone this repo
 
-`git clone https://github.com/ruvate/conv-lstm-mnist.git `
+`git clone https://github.com/ruvate/swish-vs-ReLU.git `
 
 To run the code use ` python3 src.py <path_to_folder> `.
 
